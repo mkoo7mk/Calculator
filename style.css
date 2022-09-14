@@ -1,0 +1,44 @@
+.container {
+    padding-top: 20%;
+    padding-left: 35%;
+}
+
+.parentheses{
+    background-color: darkgrey;
+    border-radius: 4px;
+    padding: 5px 39px;
+    width: 16.8%;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+
+.parentheses:hover {
+    background-color: dimgrey;
+}
+
+.button {
+    padding: 5px 45px;
+    width: 1%;
+    background-color: lightgray;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    color: black;
+}
+
+.button:hover {
+    background-color: darkgrey;
+}
+
+.submit {
+    background-color: cornflowerblue;
+}
+
+.submit:hover {
+    background-color: dodgerblue;
+}
+
+.input {
+    width: 34%;
+}
